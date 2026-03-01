@@ -30,7 +30,7 @@ Handles cold-start users with no history.
 
 
 
-Uses dot product and cosine similarity on a user-item matrix.
+Uses cosine similarity on a user-item matrix.
 
 
 
